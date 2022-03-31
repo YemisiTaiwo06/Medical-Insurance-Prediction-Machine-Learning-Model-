@@ -1,5 +1,5 @@
 # Medical-Insurance-Prediction-Machine-Learning-Model-
-This is a machine model.
+This is a machine learning model.
 Hi there,
 I'm a beginner and this is my first machine learning project. In this repository, I built a machine learning model for a medical insurance prediction.
 This model is built based on the classification model under Supervised Machine Learning because the model is trying to predict if a customer will buy a type of medical insurance or not (check code to understand better).
